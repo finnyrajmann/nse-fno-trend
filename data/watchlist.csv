@@ -1,0 +1,210 @@
+Symbol,Industry,IsBanking
+360ONE,Financial Services,True
+ABB,Capital Goods,False
+ABCAPITAL,Financial Services,True
+ADANIENSOL,Power,False
+ADANIENT,Metals and Mining,False
+ADANIGREEN,Power,False
+ADANIPORTS,Services,False
+ADANIPOWER,Power,False
+ALKEM,Healthcare,False
+AMBER,Consumer Durables,False
+AMBUJACEM,Construction Materials,False
+ANGELONE,Financial Services,True
+APLAPOLLO,Capital Goods,False
+APOLLOHOSP,Healthcare,False
+ASHOKLEY,Capital Goods,False
+ASIANPAINT,Consumer Durables,False
+ASTRAL,Capital Goods,False
+AUBANK,Financial Services,True
+AUROPHARMA,Healthcare,False
+AXISBANK,Financial Services,True
+BAJAJ-AUTO,Automobile and Auto Components,False
+BAJAJFINSV,Financial Services,True
+BAJAJHLDNG,Financial Services,True
+BAJFINANCE,Financial Services,True
+BANDHANBNK,Financial Services,True
+BANKBARODA,Financial Services,True
+BANKINDIA,Financial Services,True
+BDL,Capital Goods,False
+BEL,Capital Goods,False
+BHARATFORG,Automobile and Auto Components,False
+BHARTIARTL,Telecommunication,False
+BHEL,Capital Goods,False
+BIOCON,Healthcare,False
+BLUESTARCO,Consumer Durables,False
+BOSCHLTD,Automobile and Auto Components,False
+BPCL,Oil Gas and Consumable Fuels,False
+BRITANNIA,Fast Moving Consumer Goods,False
+BSE,Financial Services,True
+CAMS,Financial Services,True
+CANBK,Financial Services,True
+CDSL,Financial Services,True
+CGPOWER,Capital Goods,False
+CHOLAFIN,Financial Services,True
+CIPLA,Healthcare,False
+COALINDIA,Oil Gas and Consumable Fuels,False
+COCHINSHIP,Capital Goods,False
+COFORGE,Information Technology,False
+COLPAL,Fast Moving Consumer Goods,False
+CONCOR,Services,False
+CROMPTON,Consumer Durables,False
+CUMMINSIND,Capital Goods,False
+DABUR,Fast Moving Consumer Goods,False
+DALBHARAT,Construction Materials,False
+DELHIVERY,Services,False
+DIVISLAB,Healthcare,False
+DIXON,Consumer Durables,False
+DLF,Realty,False
+DMART,Consumer Services,False
+DRREDDY,Healthcare,False
+EICHERMOT,Automobile and Auto Components,False
+ETERNAL,Consumer Services,False
+EXIDEIND,Automobile and Auto Components,False
+FEDERALBNK,Financial Services,True
+FORCEMOT,Automobile and Auto Components,False
+FORTIS,Healthcare,False
+GAIL,Oil Gas and Consumable Fuels,False
+GLENMARK,Healthcare,False
+GMRAIRPORT,Services,False
+GODFRYPHLP,Fast Moving Consumer Goods,False
+GODREJCP,Fast Moving Consumer Goods,False
+GODREJPROP,Realty,False
+GRASIM,Construction Materials,False
+HAL,Capital Goods,False
+HAVELLS,Consumer Durables,False
+HCLTECH,Information Technology,False
+HDFCAMC,Financial Services,True
+HDFCBANK,Financial Services,True
+HDFCLIFE,Financial Services,True
+HEROMOTOCO,Automobile and Auto Components,False
+HINDALCO,Metals and Mining,False
+HINDPETRO,Oil Gas and Consumable Fuels,False
+HINDUNILVR,Fast Moving Consumer Goods,False
+HINDZINC,Metals and Mining,False
+HYUNDAI,Automobile and Auto Components,False
+ICICIBANK,Financial Services,True
+ICICIGI,Financial Services,True
+ICICIPRULI,Financial Services,True
+IDEA,Telecommunication,False
+IDFCFIRSTB,Financial Services,True
+IEX,Financial Services,True
+INDHOTEL,Consumer Services,False
+INDIANB,Financial Services,True
+INDIGO,Services,False
+INDUSINDBK,Financial Services,True
+INDUSTOWER,Telecommunication,False
+INFY,Information Technology,False
+INOXWIND,Capital Goods,False
+IOC,Oil Gas and Consumable Fuels,False
+IREDA,Financial Services,True
+IRFC,Financial Services,True
+ITC,Fast Moving Consumer Goods,False
+JINDALSTEL,Metals and Mining,False
+JIOFIN,Financial Services,True
+JSWENERGY,Power,False
+JSWSTEEL,Metals and Mining,False
+JUBLFOOD,Consumer Services,False
+KALYANKJIL,Consumer Durables,False
+KAYNES,Capital Goods,False
+KEI,Capital Goods,False
+KFINTECH,Financial Services,True
+KOTAKBANK,Financial Services,True
+KPITTECH,Information Technology,False
+LAURUSLABS,Healthcare,False
+LICHSGFIN,Financial Services,True
+LICI,Financial Services,True
+LODHA,Realty,False
+LT,Construction,False
+LTF,Financial Services,True
+LTM,Information Technology,False
+LUPIN,Healthcare,False
+M&M,Automobile and Auto Components,False
+MANAPPURAM,Financial Services,True
+MANKIND,Healthcare,False
+MARICO,Fast Moving Consumer Goods,False
+MARUTI,Automobile and Auto Components,False
+MAXHEALTH,Healthcare,False
+MAZDOCK,Capital Goods,False
+MCX,Financial Services,True
+MFSL,Financial Services,True
+MOTHERSON,Automobile and Auto Components,False
+MOTILALOFS,Financial Services,True
+MPHASIS,Information Technology,False
+MUTHOOTFIN,Financial Services,True
+NAM-INDIA,Financial Services,True
+NATIONALUM,Metals and Mining,False
+NAUKRI,Consumer Services,False
+NBCC,Construction,False
+NESTLEIND,Fast Moving Consumer Goods,False
+NHPC,Power,False
+NMDC,Metals and Mining,False
+NTPC,Power,False
+NUVAMA,Financial Services,True
+NYKAA,Consumer Services,False
+OBEROIRLTY,Realty,False
+OFSS,Information Technology,False
+OIL,Oil Gas and Consumable Fuels,False
+ONGC,Oil Gas and Consumable Fuels,False
+PAGEIND,Textiles,False
+PATANJALI,Fast Moving Consumer Goods,False
+PAYTM,Financial Services,True
+PERSISTENT,Information Technology,False
+PETRONET,Oil Gas and Consumable Fuels,False
+PFC,Financial Services,True
+PGEL,Consumer Durables,False
+PHOENIXLTD,Realty,False
+PIDILITIND,Chemicals,False
+PIIND,Chemicals,False
+PNB,Financial Services,True
+PNBHOUSING,Financial Services,True
+POLICYBZR,Financial Services,True
+POLYCAB,Capital Goods,False
+POWERGRID,Power,False
+POWERINDIA,Capital Goods,False
+PREMIERENE,Capital Goods,False
+PRESTIGE,Realty,False
+RADICO,Fast Moving Consumer Goods,False
+RBLBANK,Financial Services,True
+RECLTD,Financial Services,True
+RELIANCE,Oil Gas and Consumable Fuels,False
+SAIL,Metals and Mining,False
+SAMMAANCAP,Financial Services,True
+SBICARD,Financial Services,True
+SBILIFE,Financial Services,True
+SBIN,Financial Services,True
+SHREECEM,Construction Materials,False
+SHRIRAMFIN,Financial Services,True
+SIEMENS,Capital Goods,False
+SOLARINDS,Chemicals,False
+SONACOMS,Automobile and Auto Components,False
+SRF,Chemicals,False
+SUNPHARMA,Healthcare,False
+SUPREMEIND,Capital Goods,False
+SUZLON,Capital Goods,False
+SWIGGY,Consumer Services,False
+TATACONSUM,Fast Moving Consumer Goods,False
+TATAELXSI,Information Technology,False
+TATAPOWER,Power,False
+TATASTEEL,Metals and Mining,False
+TCS,Information Technology,False
+TECHM,Information Technology,False
+TIINDIA,Automobile and Auto Components,False
+TITAN,Consumer Durables,False
+TMPV,Automobile and Auto Components,False
+TORNTPHARM,Healthcare,False
+TRENT,Consumer Services,False
+TVSMOTOR,Automobile and Auto Components,False
+ULTRACEMCO,Construction Materials,False
+UNIONBANK,Financial Services,True
+UNITDSPR,Fast Moving Consumer Goods,False
+UNOMINDA,Automobile and Auto Components,False
+UPL,Chemicals,False
+VBL,Fast Moving Consumer Goods,False
+VEDL,Metals and Mining,False
+VMM,Consumer Services,False
+VOLTAS,Consumer Durables,False
+WAAREEENER,Capital Goods,False
+WIPRO,Information Technology,False
+YESBANK,Financial Services,True
+ZYDUSLIFE,Healthcare,False
